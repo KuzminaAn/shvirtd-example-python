@@ -14,6 +14,9 @@ See 'snap info docker' for additional versions.
 ```
 Docker Compose version v2.29.7
 ```
+Установка была по инструкции:
+https://proghunter.ru/articles/installing-docker-compose-v2-on-ubuntu
+https://github.com/docker/compose/releases/tag/v2.29.7
 
 ## Задача 1
 
